@@ -17,7 +17,7 @@
     	android:id="@+id/data"
     	android:layout_width="fill_parent" 
     	android:baselineAligned="false"
-    	android:layout_height="fill_parent">
+    	android:layout_height="wrap_content">
         <LinearLayout 
         	android:orientation="vertical" 
         	android:id="@+id/btn_datebox" 
