@@ -14,8 +14,7 @@
 	>
     <LinearLayout
     	android:orientation="horizontal" 
-    	android:id="@+id/data" 
-    	android:paddingLeft="14.0dip" 
+    	android:id="@+id/data"
     	android:layout_width="fill_parent" 
     	android:baselineAligned="false"
     	android:layout_height="fill_parent">
@@ -32,7 +31,8 @@
             	android:id="@+id/daynum" 
             	android:paddingRight="10.0dip" 
             	android:layout_width="wrap_content" 
-            	android:layout_height="wrap_content" 
+            	android:layout_height="wrap_content"
+            	android:minWidth="50dp"
             	style="@style/text_shadow"
             	android:maxLines="1"
             	android:text="08"
