@@ -52,6 +52,7 @@
         android:ellipsize="end"
         android:maxLines="2"
         android:paddingLeft="10.0dip"
+        android:paddingBottom="4dip"
         android:text="Title"
         android:textSize="13.0sp" />
 
